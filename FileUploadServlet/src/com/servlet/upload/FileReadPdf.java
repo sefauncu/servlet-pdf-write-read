@@ -21,8 +21,7 @@ public class FileReadPdf extends HttpServlet {
         
   
     public FileReadPdf() {
-        super();
-       
+        super();       
     }
  
  
